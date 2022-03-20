@@ -3,8 +3,8 @@
       {
       "select_main_ads": "UNITY",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-7700581715935478/3685071904",
-      "main_ads_intertitial":"ca-app-pub-7700581715935478/7610723096",
+      "main_ads_banner": "Banner",
+      "main_ads_intertitial":"Interstitial_Android",
       "native_for_admob":"ca-app-pub-7700581715935478/4189480698",
       "backup_ads_banner":"c74a29585a00d186",
       "backup_ads_intertitial":"7b1275ba9787f0a8",
