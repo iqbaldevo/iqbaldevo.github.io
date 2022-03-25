@@ -1,10 +1,10 @@
 {
   "Ads": [
       {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "UNITY",
       "select_backup_ads":"UNITY",
-      "main_ads_banner": "xca-app-pub-7700581715935478/3685071904",
-      "main_ads_intertitial":"xca-app-pub-7700581715935478/7610723096",
+      "main_ads_banner": "Banner",
+      "main_ads_intertitial":"Interstitial_Android",
       "native_for_admob":"xca-app-pub-7700581715935478/4189480698",
       "backup_ads_banner":"Banner",
       "backup_ads_intertitial":"Interstitial_Android",
