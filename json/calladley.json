@@ -2,12 +2,12 @@
   "Ads": [
       {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-7700581715935478/6348921354",
       "main_ads_intertitial":"ca-app-pub-7700581715935478/3526444753",
       "native_for_admob":"ca-app-pub-7700581715935478/5101635909",
-      "backup_ads_banner":"Banner_Android",
-      "backup_ads_intertitial":"Interstitial_Android",
+      "backup_ads_banner":"b2f0bb1d16f9d1e6",
+      "backup_ads_intertitial":"4ce478277d7d9644",
       "interval_intertitial": 2,
       "initialize_sdk":"4684385",
       "initialize_sdk_backup_ads":"4684385",
@@ -70,6 +70,12 @@
       "title":"IshowSpeed",
       "image":"https://play-lh.googleusercontent.com/DcFYEoBc1LPfmnL68ONVKCwgNCzT5iM7zvyZikGhF6x4dTeE8al6LTogq5-I1GbxTQ=s180-rw",
       "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callishowspeed"
+    },
+    {
+      "id":9,
+      "title":"Planeta Das Gemeas",
+      "image":"https://play-lh.googleusercontent.com/NXovZRt4jbz4a7rbmZzQdyux7agpfbHw5XT7HH3AB2oMrzNVJLNrGrIJlJ5zFSZ4zMuI=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callplaneta"
     }
   ]
 
