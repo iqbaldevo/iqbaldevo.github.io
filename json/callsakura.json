@@ -3,9 +3,9 @@
       {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-7700581715935478/9390380022x",
-      "main_ads_intertitial":"ca-app-pub-7700581715935478/5855293848x",
-      "native_for_admob":"ca-app-pub-7700581715935478/3229130500x",
+      "main_ads_banner": "ca-app-pub-7700581715935478/9390380022",
+      "main_ads_intertitial":"ca-app-pub-7700581715935478/5855293848",
+      "native_for_admob":"ca-app-pub-7700581715935478/3229130500",
       "backup_ads_banner":"45c676c8a3a86cb4x",
       "backup_ads_native":"eccc04792caf8b9ex",
       "backup_ads_intertitial":"07d8f5b4b5d94459x",
