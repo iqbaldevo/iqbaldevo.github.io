@@ -6,9 +6,8 @@
       "main_ads_banner": "ca-app-pub-7700581715935478/1314304256",
       "main_ads_intertitial":"ca-app-pub-7700581715935478/3461955443",
       "native_for_admob":"ca-app-pub-7700581715935478/8522710436",
-      "backup_ads_banner":"27721826acc877dc",
-      "backup_ads_native":"27721826acc877dc",
-      "backup_ads_intertitial":"8628496fba4cd2b9",
+      "backup_ads_banner":"e76a243b50686d21",
+      "backup_ads_intertitial":"3ece739cd09f1467",
       "interval_intertitial": 2,
       "initialize_sdk":"4665793",
       "initialize_sdk_backup_ads":"4665793",
@@ -18,10 +17,66 @@
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       "status_app": "0",
-      "link_redirect": "https://",
-      "visible_gone_moreapp": "1",
-      "stroke_line_native_ads": "1",
-      "native_ads_color": "#FFF34A14"
+      "link_redirect": "https://"
       }
-   ]
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Isabela Madrigal Call You",
+      "image":"https://play-lh.googleusercontent.com/v0ohFgq2IN7W7JdmsHuH8Kyg7MOJ3AlsqL8ozE4qV7fCYrb9kk_jovgRKirvrb7yPg=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callisabela"
+    },
+    {
+      "id":2,
+      "title":"Juyy Putri Calling",
+      "image":"https://play-lh.googleusercontent.com/Awf_xNKO0bIwMJYRF1sV6VqRjD8HLKi87e4JrCMnnGiRfjKuFe_kMu1IRIeeszJezw=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.calljuyy"
+    },
+    {
+      "id":3,
+      "title":"Vlad A4 Fake Call Bugama",
+      "image":"https://play-lh.googleusercontent.com/vaWiMnRAQDSPK-yNwmK6dljokjZTWbP6frgm7w-3wmvNEJS0Mf9An050ei0ySVejsq0D=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callvlad"
+    },
+    {
+      "id":4,
+      "title":"Ryan Toys Fake Call",
+      "image":"https://play-lh.googleusercontent.com/LOIXkIcso03AdOFVE66j4e7UDdu2UXItE97s45jxwetohYMdQidbN7w5-LfgkU4pP9G6=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callryan"
+    },
+    {
+      "id":5,
+      "title":"A for Adley",
+      "image":"https://play-lh.googleusercontent.com/YwlNzzx33JMj1igeSb6ffDu-El9r5HPhSNlDE_ZTbOiIlTWon4FJUB1Ozq8OObXlng=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.calladley"
+    },
+    {
+      "id":6,
+      "title":"Daniel and Regina",
+      "image":"https://play-lh.googleusercontent.com/5fXd8XTe3tY3VYE5P4iogExefMe4WWRVdTc2Eh-LENRumrIOZsTJssXBol0drmILxCo=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.calldanielregina"
+    },
+    {
+      "id":7,
+      "title":"Turning Red Mei lee",
+      "image":"https://play-lh.googleusercontent.com/UW0F0Hziucjr7BkbxPVEWLOZKGYaogIe53DTP3a5dpov5d_vNV1BJfSZo35y0FVW41I=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callturningred"
+    },
+    {
+      "id":8,
+      "title":"IshowSpeed",
+      "image":"https://play-lh.googleusercontent.com/DcFYEoBc1LPfmnL68ONVKCwgNCzT5iM7zvyZikGhF6x4dTeE8al6LTogq5-I1GbxTQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callishowspeed"
+    },
+    {
+      "id":9,
+      "title":"Planeta Das Gemeas",
+      "image":"https://play-lh.googleusercontent.com/NXovZRt4jbz4a7rbmZzQdyux7agpfbHw5XT7HH3AB2oMrzNVJLNrGrIJlJ5zFSZ4zMuI=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callplaneta"
+    }
+  ]
+
 }
