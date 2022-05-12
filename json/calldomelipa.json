@@ -2,139 +2,26 @@
   "Ads": [
       {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-7700581715935478/1314304256",
       "main_ads_intertitial":"ca-app-pub-7700581715935478/3461955443",
       "native_for_admob":"ca-app-pub-7700581715935478/8522710436",
-      "backup_ads_banner":" 27721826acc877dc",
+      "backup_ads_banner":"e67e2fd9f4a52234",
+      "backup_ads_native":"27721826acc877dc",
       "backup_ads_intertitial":"8628496fba4cd2b9",
       "interval_intertitial": 2,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk":"4665793",
+      "initialize_sdk_backup_ads":"4665793",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       "status_app": "0",
-      "link_redirect": "https://"
+      "link_redirect": "https://",
+      "visible_gone_moreapp": "1",
+      "stroke_line_native_ads": "1",
+      "native_ads_color": "#FFF34A14"
       }
-   ],
-  "More":
-  [
-    {
-      "id":1,
-      "title":"Isabela Madrigal Call You",
-      "image":"https://play-lh.googleusercontent.com/v0ohFgq2IN7W7JdmsHuH8Kyg7MOJ3AlsqL8ozE4qV7fCYrb9kk_jovgRKirvrb7yPg=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callisabela"
-    },
-    {
-      "id":2,
-      "title":"Juyy Putri Calling",
-      "image":"https://play-lh.googleusercontent.com/Awf_xNKO0bIwMJYRF1sV6VqRjD8HLKi87e4JrCMnnGiRfjKuFe_kMu1IRIeeszJezw=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.calljuyy"
-    },
-    {
-      "id":3,
-      "title":"Vlad A4 Fake Call Bugama",
-      "image":"https://play-lh.googleusercontent.com/vaWiMnRAQDSPK-yNwmK6dljokjZTWbP6frgm7w-3wmvNEJS0Mf9An050ei0ySVejsq0D=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callvlad"
-    },
-    {
-      "id":4,
-      "title":"Ryan Toys Fake Call",
-      "image":"https://play-lh.googleusercontent.com/LOIXkIcso03AdOFVE66j4e7UDdu2UXItE97s45jxwetohYMdQidbN7w5-LfgkU4pP9G6=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callryan"
-    },
-    {
-      "id":5,
-      "title":"A for Adley",
-      "image":"https://play-lh.googleusercontent.com/YwlNzzx33JMj1igeSb6ffDu-El9r5HPhSNlDE_ZTbOiIlTWon4FJUB1Ozq8OObXlng=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.calladley"
-    },
-    {
-      "id":6,
-      "title":"Daniel and Regina",
-      "image":"https://play-lh.googleusercontent.com/5fXd8XTe3tY3VYE5P4iogExefMe4WWRVdTc2Eh-LENRumrIOZsTJssXBol0drmILxCo=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.calldanielregina"
-    },
-    {
-      "id":7,
-      "title":"Turning Red Mei lee",
-      "image":"https://play-lh.googleusercontent.com/UW0F0Hziucjr7BkbxPVEWLOZKGYaogIe53DTP3a5dpov5d_vNV1BJfSZo35y0FVW41I=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callturningred"
-    },
-    {
-      "id":8,
-      "title":"IshowSpeed",
-      "image":"https://play-lh.googleusercontent.com/DcFYEoBc1LPfmnL68ONVKCwgNCzT5iM7zvyZikGhF6x4dTeE8al6LTogq5-I1GbxTQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callishowspeed"
-    },
-    {
-      "id":9,
-      "title":"Planeta Das Gemeas",
-      "image":"https://play-lh.googleusercontent.com/NXovZRt4jbz4a7rbmZzQdyux7agpfbHw5XT7HH3AB2oMrzNVJLNrGrIJlJ5zFSZ4zMuI=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.callplaneta"
-    },
-    {
-      "id":10,
-      "title":"Domelipa",
-      "image":"https://play-lh.googleusercontent.com/izDGPe6Xce6_H1aipdcmTi0M15FRsupxNEwqUOrItrk1-SUJO-6pgvM69GbFxmC61V8=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.calldomelipa"
-    },
-    {
-      "id":11,
-      "title":"Frost Diamond",
-      "image":"https://play-lh.googleusercontent.com/6cxOutA4nIls2BLw96f8oWbjPfHMKpbz4pAdK567Z5K8fJlcuG6EZpAd-tMwPxjf-Q=s180",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.frostdiamondfakecall"
-    },
-    {
-      "id":12,
-      "title":"Jungkook Call",
-      "image":"https://play-lh.googleusercontent.com/9ruKhyXQXoek0uB_wp36rovRlPsMmuSG0THEPTAZYAAPj54MonTuf4cGdE8kW10_8K0=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.Jungkookbtscall"
-    },
-    {
-      "id":13,
-      "title":"Sakura Call",
-      "image":"https://play-lh.googleusercontent.com/-4DBJ8ldaexY4cvKOOZinst7QeFUpmO88qP7O96b9xyuzTfFvlFf3gbLxe_rsq_xf4Vz=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.sakurafakecall"
-    },
-    {
-      "id":14,
-      "title":"Blippi Call",
-      "image":"https://play-lh.googleusercontent.com/sjedYrCj-hCDLv_cASY9k5WuwnD-8xXyZdOc9bcWQ5m2p8o99ywEjENSemdbMqPkIA=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.blippivideocall"
-    },
-    {
-      "id":15,
-      "title":"Alejo igoa",
-      "image":"https://play-lh.googleusercontent.com/41krnJ_9YuI_2vnFogiSFKfjhTWDf_QM9zibKJl4WQsRYWWeoB1yj7T5FlFxravFXw=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.alejofakecall"
-    },
-    {
-      "id":16,
-      "title":"Mont Pantoja",
-      "image":"https://play-lh.googleusercontent.com/Jy1OREenEjO3CVlU2lH1r60zRJgeBL06cqdGnUlPP5UnnMlLTwgZ0R74cjSpkb1zr8s=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.montpantojacall"
-    },
-    {
-      "id":17,
-      "title":"Kim Loaiza",
-      "image":"https://play-lh.googleusercontent.com/bj7OrEpW1TyPZp4mbk7vCspa7-EEp43jKtm_bezGswVRQqQ-GtbL6Mu_6gBTCLZQh-p-=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.kimloaizafakecall"
-    },
-    {
-      "id":18,
-      "title":"Ria Ricis",
-      "image":"https://play-lh.googleusercontent.com/mpbjqlAS_U2UdTx8S0Hh40ZltcLhl2hiDp0r3RrRGYU8H2ZV0HVd3rCrA2vrYSqVPH6P=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.fakevideocallriaricis"
-    },
-    {
-      "id":19,
-      "title":"J-Hope",
-      "image":"https://play-lh.googleusercontent.com/tXFErUs0ZR2pTj_ZET0Q2HUVhq6SKbGS_bmgQdzQwksAsq22jVKQiLxIQ6xJ0mK7w4I=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.iqbaldevo.jhopebtsvideocall"
-    }
-  ]
+   ]
 }
